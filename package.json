@@ -1,16 +1,12 @@
 {
   "name": "com.unityessentials.cameraphysicalpropertiescontroller",
   "version": "1.0.0",
-  "displayName": "UnityEssentials CameraPhysicalPropertiesController",
+  "displayName": "Unity Rendering Camera PhysicalPropertiesController",
   "description": "This is a part of the UnityEssentials Ecosystem",
-  "unity": "2022.1",
+  "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.core": "1.0.0",
-    "com.unity.cinemachine": "3.1.3",
-    "com.unityessentials.resourceloader": "1.0.0",
-    "com.unityessentials.utilityextensions": "1.0.0",
-    "com.unityessentials.minmaxsliderattribute": "1.0.0"
+    "com.unity.cinemachine": "3.1.3"
   },
   "keywords": [],
   "author": {
