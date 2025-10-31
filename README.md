@@ -27,3 +27,21 @@ Install the Unity Essentials entry package via Unity's Package Manager, then ins
 # Camera Physical Properties Controller
 
 > Quick overview:
+
+"Description"
+
+![screenshot](Documentation/Screenshot.png)
+
+## Features
+
+## Requirements
+
+## Usage
+
+"Further specific H2 sections"
+
+## Notes and Limitations
+
+## Files in This Package
+
+## Tags
