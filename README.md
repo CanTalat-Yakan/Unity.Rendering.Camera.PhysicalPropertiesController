@@ -50,7 +50,7 @@ Physical camera parameters are derived each frame from normalized inputs using a
   - Works with or without a `CinemachineCamera` on the same GameObject
 
 ## Requirements
-- Unity 6000.0+ (per package manifest)
+- Unity 6000.0+
 - A Camera on the same GameObject (enforced by `[RequireComponent]`)
 - A `CameraPresetData` asset assigned to the controller
 - Optional: Cinemachine (for Lens PhysicalProperties application)
